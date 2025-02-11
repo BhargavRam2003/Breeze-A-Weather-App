@@ -1,8 +1,10 @@
-Breeze: A Weather App 🌦️
+**Breeze: A Weather App** 🌦️
 
 Breeze is a simple weather app built with Python and Tkinter. It fetches real-time weather data using the OpenWeatherMap API.
 
-Features
+
+**Features**
+
 ✔ Get live weather updates for any city 🌍
 
 ✔ Shows temperature, weather description, and icons
@@ -10,7 +12,8 @@ Features
 ✔ Simple and easy-to-use interface
 
 
-How to Install & Run
+**How to Install & Run**
+
 Install Dependencies
 sh
 Copy
