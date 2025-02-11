@@ -4,8 +4,11 @@ Breeze is a simple weather app built with Python and Tkinter. It fetches real-ti
 
 Features
 ✔ Get live weather updates for any city 🌍
+
 ✔ Shows temperature, weather description, and icons
+
 ✔ Simple and easy-to-use interface
+
 
 How to Install & Run
 Install Dependencies
